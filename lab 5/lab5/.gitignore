@@ -1,0 +1,35 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+#23. Розробити інформаційну систему рекрутингового агенства з різними
+#типами вакансій (наприклад, повна зайнятість, часткова зайнятість, фріланс і
+#т.п.) за використанням ієрархії відповідних класів. Кожен тип вакансії повинен
+#мати унікальні властивості та методи для розрахунку оплати праці і т.п.
+#Реалізувати пошук вакансій за спеціалізацією та типами.
